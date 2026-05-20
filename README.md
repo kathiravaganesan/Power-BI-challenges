@@ -49,4 +49,4 @@ This repository represents my learning journey in data analytics and Power BI. I
 
 ---
 
-👨‍💻 **Author:** Kathiravaganesan
+**Author:** Kathiravaganesan
